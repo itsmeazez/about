@@ -1,3 +1,3 @@
 # recipes
 
-recipes for what exactly? we'll discover that :).
+recipes for what exactly? we'll discover that :)..

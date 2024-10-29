@@ -1,3 +1,8 @@
-# recipes
+# Basebit
 
-recipes for what exactly? we'll discover that :).
+- Root
+- Main, as a base for the webpage.
+.
+.
+
+- later modifications will have a place here.
